@@ -186,6 +186,7 @@ def choice(msg, choices=('y', 'n')):
 
     return choice
 
+#ask user whether they want to see raw data or not
 def raw_data(df, point):
     """Display 5 lines of sorted raw data each time."""
     print("\nYou opted to view raw data.")
