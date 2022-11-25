@@ -135,7 +135,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
     
-#created the function user_stats(df) that analyzes the data related to user
+#created the function user_stats(df) that analyzes the data related to new user
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
 
